@@ -1,0 +1,38 @@
+{
+	"author":"stmSantana",
+	"authorURL":"https://github.com/stmSantana?tab=repositories", //Link to all your mod repos/Github author page
+	"mods":[
+		{
+			"name":"FoodsBySantana", //Mod name
+			"aliases":[], //Aliases for the mod (useful in case it has changed names)
+			"author":"", //This and the next one are optional, if you don't specify anything here, it grabs them from the general properties at the top
+			"authorURL":"", //If left empty, main author URL will be used
+			"version":"1.1.1", //Current version of the mod
+			"updated":"2022-01-27", //ISO date YYYY-MM-DD
+			"description":"", //If something special needs to be done to install the mod (such as extracting a .zip) it should go in here too.
+			"thumb": "https://raw.githubusercontent.com/stmSantana/FoodsBySantana/main/images/Foods-v1.1_Thumb_01.jpg", //URL to image for the mod's thumb. JPG or PNG files only, also please make sure it's not too big 1200px, wide should be more than enough.
+			"modURL":"https://github.com/stmSantana/FoodsBySantana", //Direct link to the main page of the repository (mainly so the README.md shows)
+			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/FoodsBySantana.modcomponent", //Direct link to the .dll/.zip release
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.2"
+			},
+			"dependencies":[
+          "ModComponent",
+	  			"ModSettings",
+	  			"GearSpawner",
+	  			"LocalizationUtilities",
+	  			"CraftingRevisions",
+      ], //This array should have all the other mods needed to make this one work.
+			"updater":{
+				"enable":true, //Set this to avoid automatic updates for the mod
+				"downloads":[]  //Array of files the updater needs to download. If left empty, the updater will use the downloadURL 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		}
+	]
+}
