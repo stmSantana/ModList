@@ -4,7 +4,7 @@
 	"mods":[
 		{
 			"name":"FoodsBySantana", 
-                        "displayName": "Foods by Santana",
+			"displayName": "Foods by Santana",
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
@@ -19,12 +19,45 @@
 				"mlversion":"0.5.2"
 			},
 			"dependencies":[
-         			"ModComponent",
-	  			"ModSettings",
-	  			"GearSpawner",
-	  			"LocalizationUtilities",
-	  			"CraftingRevisions"
-                        ], 
+				"ModComponent",
+				"ModSettings",
+				"GearSpawner",
+				"LocalizationUtilities",
+				"CraftingRevisions"
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"InteriorWallDecorations", 
+			"displayName": "Interior Wall Decorations",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0", 
+			"updated":"2022-02-14", 
+			"description":"", 
+			"thumb": "",
+			"modURL":"https://github.com/stmSantana/InteriorWallDecorations", 
+			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/Wall_Interior.modcomponentmodcomponent", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings",
+				"GearSpawner",
+				"LocalizationUtilities",
+				"CraftingRevisions"
+			], 
 			"updater":{
 				"enable":true, 
 				"downloads":[] 
