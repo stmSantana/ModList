@@ -4,6 +4,7 @@
 	"mods":[
 		{
 			"name":"FoodsBySantana", 
+                        "displayName": "Foods by Santana",
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
@@ -23,7 +24,7 @@
 	  			"GearSpawner",
 	  			"LocalizationUtilities",
 	  			"CraftingRevisions"
-      ], 
+                        ], 
 			"updater":{
 				"enable":true, 
 				"downloads":[] 
@@ -33,6 +34,6 @@
 				"issues":"",
 				"notes":""
 			}
-		}
+		},
 	]
 }
