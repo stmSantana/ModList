@@ -10,7 +10,7 @@
 			"authorURL":"", 
 			"version":"1.1.1", 
 			"updated":"2022-01-27", 
-			"description":"", 
+			"description":"Mod to add food such as ramen.", 
 			"thumb": "https://raw.githubusercontent.com/stmSantana/FoodsBySantana/main/images/Foods-v1.1_Thumb_01.jpg",
 			"modURL":"https://github.com/stmSantana/FoodsBySantana", 
 			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/FoodsBySantana.modcomponent", 
@@ -36,14 +36,14 @@
 			}
 		},
 		{
-			"name":"InteriorWallDecorations", 
+			"name":"Wall_Interior", 
 			"displayName": "Interior Wall Decorations",
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
 			"version":"1.0", 
 			"updated":"2022-02-14", 
-			"description":"", 
+			"description":"Mod to decoration such as posters.", 
 			"thumb": "",
 			"modURL":"https://github.com/stmSantana/InteriorWallDecorations", 
 			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/Wall_Interior.modcomponentmodcomponent", 
@@ -56,7 +56,7 @@
 				"ModSettings",
 				"GearSpawner",
 				"LocalizationUtilities",
-				"CraftingRevisions"
+				"CraftingRevisions",
 			], 
 			"updater":{
 				"enable":true, 
