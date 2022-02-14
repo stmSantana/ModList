@@ -56,7 +56,7 @@
 				"ModSettings",
 				"GearSpawner",
 				"LocalizationUtilities",
-				"CraftingRevisions",
+				"CraftingRevisions"
 			], 
 			"updater":{
 				"enable":true, 
