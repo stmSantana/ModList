@@ -44,7 +44,7 @@
 			"version":"1.0", 
 			"updated":"2022-02-07", 
 			"description":"<b>(ITEM MOD)</b> Mod to add toilet paper.", 
-			"thumb": "",
+			"thumb": "https://raw.githubusercontent.com/stmSantana/ToiletPaper/main/Images/Tut0-0.jpg",
 			"modURL":"https://github.com/stmSantana/ToiletPaper", 
 			"downloadURL":"https://github.com/stmSantana/ToiletPaper/releases/latest/download/Items_TP.modcomponent", 
 			"testedon":{
@@ -77,7 +77,7 @@
 			"version":"1.0", 
 			"updated":"2022-02-14", 
 			"description":"<b>(ITEM MOD)</b> Mod to decoration such as posters.<br><b>Recommended mod:</b> Placing Anywhere ", 
-			"thumb": "",
+			"thumb": "https://raw.githubusercontent.com/stmSantana/InteriorWallDecorations/main/Images/Gallery/Gallery.jpg",
 			"modURL":"https://github.com/stmSantana/InteriorWallDecorations", 
 			"downloadURL":"https://github.com/stmSantana/InteriorWallDecorations/releases/latest/download/Wall_Interior.modcomponent", 
 			"testedon":{
@@ -110,7 +110,7 @@
 			"version":"4.1.0", 
 			"updated":"2022-02-18", 
 			"description":"Displays the player icon on the map like in story mode.", 
-			"thumb": "",
+			"thumb": "https://raw.githubusercontent.com/stmSantana/ToiletPaper/main/Images/Icon_ShopMapLocation.jpg",
 			"modURL":"https://github.com/stmSantana/Show-Map-Location", 
 			"downloadURL":"https://github.com/stmSantana/Show-Map-Location/releases/latest/download/Show-Map-Location.dll", 
 			"testedon":{
