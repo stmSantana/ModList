@@ -10,7 +10,7 @@
 			"authorURL":"", 
 			"version":"1.1.1", 
 			"updated":"2022-01-27", 
-			"description":"Mod to add food such as ramen.", 
+			"description":"<b>(ITEM MOD)</b> Mod to add food such as ramen.", 
 			"thumb": "https://raw.githubusercontent.com/stmSantana/FoodsBySantana/main/images/Foods-v1.1_Thumb_01.jpg",
 			"modURL":"https://github.com/stmSantana/FoodsBySantana", 
 			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/FoodsBySantana.modcomponent", 
@@ -43,7 +43,7 @@
 			"authorURL":"", 
 			"version":"1.0", 
 			"updated":"2022-02-07", 
-			"description":"Mod to add toilet paper.", 
+			"description":"<b>(ITEM MOD)</b> Mod to add toilet paper.", 
 			"thumb": "",
 			"modURL":"https://github.com/stmSantana/ToiletPaper", 
 			"downloadURL":"https://github.com/stmSantana/ToiletPaper/releases/latest/download/Items_TP.modcomponent", 
@@ -76,7 +76,7 @@
 			"authorURL":"", 
 			"version":"1.0", 
 			"updated":"2022-02-14", 
-			"description":"Mod to decoration such as posters.<br><b>Recommended mod:</b> Placing Anywhere ", 
+			"description":"<b>(ITEM MOD)</b> Mod to decoration such as posters.<br><b>Recommended mod:</b> Placing Anywhere ", 
 			"thumb": "",
 			"modURL":"https://github.com/stmSantana/InteriorWallDecorations", 
 			"downloadURL":"https://github.com/stmSantana/InteriorWallDecorations/releases/latest/download/Wall_Interior.modcomponent", 
@@ -98,6 +98,34 @@
 			"status":{
 				"working":true,
 				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"Show-Map-Location", 
+			"displayName": "Show Map Location",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"4.1.0", 
+			"updated":"2022-02-18", 
+			"description":"Displays the player icon on the map like in story mode.", 
+			"thumb": "",
+			"modURL":"https://github.com/stmSantana/Show-Map-Location", 
+			"downloadURL":"https://github.com/stmSantana/Show-Map-Location/releases/latest/download/Show-Map-Location.dll", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"Known issue: An arrow icon is also displayed on the world map. Ignore it.",
 				"notes":""
 			}
 		}
