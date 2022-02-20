@@ -8,15 +8,15 @@
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
-			"version":"1.1.1", 
-			"updated":"2022-01-27", 
-			"description":"<b>(ITEM MOD)</b> Mod to add food such as ramen.", 
+			"version":"1.2.0", 
+			"updated":"2022-02-20", 
+			"description":"<b>(ITEM MOD)</b> Mod to add food such as ramen.<br>Move the two files in the downloaded ZIP to the Mods folder.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
 			"thumb": "https://raw.githubusercontent.com/stmSantana/FoodsBySantana/main/images/Foods-v1.1_Thumb_01.jpg",
 			"modURL":"https://github.com/stmSantana/FoodsBySantana", 
-			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/FoodsBySantana.modcomponent", 
+			"downloadURL":"https://github.com/stmSantana/FoodsBySantana/releases/latest/download/FoodsBySantana.zip", 
 			"testedon":{
 				"tldversion":"1.99",
-				"mlversion":"0.5.2"
+				"mlversion":"0.5.3"
 			},
 			"dependencies":[
 				"ModComponent",
