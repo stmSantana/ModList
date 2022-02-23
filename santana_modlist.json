@@ -138,7 +138,7 @@
 			"version":"1.0.0.1", 
 			"updated":"2022-02-23", 
 			"description":"Collectable books that increase all skill points are added to the game.", 
-			"thumb": "",
+			"thumb": "https://raw.githubusercontent.com/stmSantana/HowToSurviveBook/main/Images/Thumb_HtsBookAZ.jpg",
 			"modURL":"https://github.com/stmSantana/HowToSurviveBook", 
 			"downloadURL":"https://github.com/stmSantana/HowToSurviveBook/releases/latest/", 
 			"testedon":{
