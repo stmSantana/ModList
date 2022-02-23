@@ -128,6 +128,38 @@
 				"issues":"",
 				"notes":"Known issue: An arrow icon is also displayed on the world map. Ignore it."
 			}
+		},
+		{
+			"name":"HowToSurviveBook", 
+			"displayName": "How To Survive Book",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0.0.1", 
+			"updated":"2022-02-23", 
+			"description":"Collectable books that increase all skill points are added to the game.", 
+			"thumb": "",
+			"modURL":"https://github.com/stmSantana/HowToSurviveBook", 
+			"downloadURL":"https://github.com/stmSantana/HowToSurviveBook/releases/latest/", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings",
+				"GearSpawner",
+				"LocalizationUtilities",
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
 		}
 	]
 }
