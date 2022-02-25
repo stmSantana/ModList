@@ -149,7 +149,7 @@
 				"ModComponent",
 				"ModSettings",
 				"GearSpawner",
-				"LocalizationUtilities",
+				"LocalizationUtilities"
 			], 
 			"updater":{
 				"enable":true, 
