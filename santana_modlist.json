@@ -36,6 +36,36 @@
 			}
 		},
 		{
+			"name":"ArrowColorChanger", 
+			"displayName": "Arrow Color Changer",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0.0", 
+			"updated":"2022-03-05", 
+			"description":"<b>You can change the color of the arrow.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
+			"thumb": "https://raw.githubusercontent.com/stmSantana/ArrowColorChanger/main/Images/ArrowColor01.jpg",
+			"modURL":"https://github.com/stmSantana/ArrowColorChanger", 
+			"downloadURL":"https://github.com/stmSantana/ArrowColorChanger/releases/latest/download/ArrowColorChanger.zip", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings",
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
 			"name":"ToiletPaper", 
 			"displayName": "Toilet Paper Mod",
 			"aliases":[], 
