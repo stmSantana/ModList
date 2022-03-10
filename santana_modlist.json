@@ -36,36 +36,6 @@
 			}
 		},
 		{
-			"name":"ArrowColorChanger", 
-			"displayName": "Arrow Color Changer",
-			"aliases":[], 
-			"author":"", 
-			"authorURL":"", 
-			"version":"1.0.0", 
-			"updated":"2022-03-05", 
-			"description":"You can change the color of the arrow.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
-			"thumb": "https://raw.githubusercontent.com/stmSantana/ArrowColorChanger/main/Images/ArrowColor01.jpg",
-			"modURL":"https://github.com/stmSantana/ArrowColorChanger", 
-			"downloadURL":"https://github.com/stmSantana/ArrowColorChanger/releases/latest/download/ArrowColorChanger.zip", 
-			"testedon":{
-				"tldversion":"1.99",
-				"mlversion":"0.5.3"
-			},
-			"dependencies":[
-				"ModComponent",
-				"ModSettings"
-			], 
-			"updater":{
-				"enable":true, 
-				"downloads":[] 
-			},
-			"status":{
-				"working":true,
-				"issues":"",
-				"notes":""
-			}
-		},
-		{
 			"name":"ToiletPaper", 
 			"displayName": "Toilet Paper Mod",
 			"aliases":[], 
@@ -180,6 +150,69 @@
 				"ModSettings",
 				"GearSpawner",
 				"LocalizationUtilities"
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"ArrowColorChanger", 
+			"displayName": "Arrow Color Changer",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0.0", 
+			"updated":"2022-03-05", 
+			"description":"You can change the color of the arrow.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
+			"thumb": "https://raw.githubusercontent.com/stmSantana/ArrowColorChanger/main/Images/ArrowColor01.jpg",
+			"modURL":"https://github.com/stmSantana/ArrowColorChanger", 
+			"downloadURL":"https://github.com/stmSantana/ArrowColorChanger/releases/latest/download/ArrowColorChanger.zip", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings"
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
+			"name":"DIY_by_Santana", 
+			"displayName": "DIY by Santana",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0.0", 
+			"updated":"2022-03-10", 
+			"description":"This mod adds some craftable furniture to the game.", 
+			"thumb": "",
+			"modURL":"https://github.com/stmSantana/DIY_by_Santana", 
+			"downloadURL":"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana.modcomponent", 
+			"testedon":{
+				"tldversion":"1.99",
+				"mlversion":"0.5.3"
+			},
+			"dependencies":[
+				"ModComponent",
+				"ModSettings",
+				"GearSpawner",
+				"LocalizationUtilities"
+				"CraftingRevisions"
 			], 
 			"updater":{
 				"enable":true, 
