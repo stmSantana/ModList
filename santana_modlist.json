@@ -211,7 +211,7 @@
 				"ModComponent",
 				"ModSettings",
 				"GearSpawner",
-				"LocalizationUtilities"
+				"LocalizationUtilities",
 				"CraftingRevisions"
 			], 
 			"updater":{
