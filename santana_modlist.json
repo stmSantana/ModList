@@ -197,12 +197,12 @@
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
-			"version":"1.0.0", 
-			"updated":"2022-03-10", 
-			"description":"This mod adds some craftable furniture to the game.", 
+			"version":"1.2.0", 
+			"updated":"2022-03-14", 
+			"description":<b>(ITEM MOD)</b> Mod to add some craftable furniture.<br>Move the two files in the downloaded ZIP to the Mods folder.<br><b>Note:</b> Zip files should not be moved to the Mods folder!", 
 			"thumb": "",
 			"modURL":"https://github.com/stmSantana/DIY_by_Santana", 
-			"downloadURL":"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana.modcomponent", 
+			"downloadURL":"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana_v1.2.zip", 
 			"testedon":{
 				"tldversion":"1.99",
 				"mlversion":"0.5.3"
