@@ -1,0 +1,32 @@
+{
+	"author":"",
+	"authorURL":"", //Link to all your mod repos/Github author page
+	"mods":[
+		{
+			"name":"", //Mod name
+			"aliases":[], //Aliases for the mod (useful in case it has changed names)
+			"author":"", //This and the next one are optional, if you don't specify anything here, it grabs them from the general properties at the top
+			"authorURL":"", //If left empty, main author URL will be used
+			"version":"", //Current version of the mod
+			"updated":"", //ISO date YYYY-MM-DD
+			"description":"", //If something special needs to be done to install the mod (such as extracting a .zip) it should go in here too.
+			"thumb": "", //URL to image for the mod's thumb. JPG or PNG files only, also please make sure it's not too big 1200px, wide should be more than enough.
+			"modURL":"", //Direct link to the main page of the repository (mainly so the README.md shows)
+			"downloadURL":"", //Direct link to the .dll/.zip release
+			"testedon":{
+				"tldversion":"",
+				"mlversion":"0.2.7"
+			},
+			"dependencies":[], //This array should have all the other mods needed to make this one work.
+			"updater":{
+				"enable":true, //Set this to avoid automatic updates for the mod
+				"downloads":[]  //Array of files the updater needs to download. If left empty, the updater will use the downloadURL 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		}
+	]
+}
