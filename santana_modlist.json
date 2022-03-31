@@ -74,15 +74,15 @@
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
-			"version":"1.2", 
-			"updated":"2022-02-20", 
+			"version":"1.3", 
+			"updated":"2022-03-31", 
 			"description":"<b>(ITEM MOD)</b> Mod to decoration such as posters.<br><b>Recommended mod:</b> Placing Anywhere ", 
 			"thumb": "https://raw.githubusercontent.com/stmSantana/InteriorWallDecorations/main/Images/Gallery/Gallery.jpg",
 			"modURL":"https://github.com/stmSantana/InteriorWallDecorations", 
 			"downloadURL":"https://github.com/stmSantana/InteriorWallDecorations/releases/latest/download/Wall_Interior.modcomponent", 
 			"testedon":{
 				"tldversion":"1.99",
-				"mlversion":"0.5.3"
+				"mlversion":"0.5.4"
 			},
 			"dependencies":[
 				"ModComponent",
