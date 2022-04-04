@@ -217,7 +217,11 @@
 			], 
 			"updater":{
 				"enable":true, 
-				"downloads":[] 
+				"downloads":[
+				"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana.modcomponent",
+				"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana_AddOn.modcomponent",
+				"https://github.com/stmSantana/DIY_by_Santana/releases/latest/download/DiyBySantana.dll"
+				] 
 			},
 			"status":{
 				"working":true,
