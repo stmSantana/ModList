@@ -235,15 +235,15 @@
 			"aliases":[], 
 			"author":"", 
 			"authorURL":"", 
-			"version":"1.2", 
-			"updated":"2022-03-30", 
+			"version":"1.2.1", 
+			"updated":"2022-04-05", 
 			"description":"<b>(ITEM MOD)</b> Mod to add some item piles.", 
 			"thumb": "",
 			"modURL":"https://github.com/stmSantana/ItemPiles", 
 			"downloadURL":"https://github.com/stmSantana/ItemPiles/releases/latest/download/ItemPiles.modcomponent", 
 			"testedon":{
 				"tldversion":"1.99",
-				"mlversion":"0.5.3"
+				"mlversion":"0.5.4"
 			},
 			"dependencies":[
 				"ModComponent",
