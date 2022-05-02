@@ -216,7 +216,7 @@
 				"Placing Anywhere"
 			], 
 			"updater":{
-				"enable":true, 
+				"enable":false, 
 				"downloads":[] 
 			},
 			"status":{
