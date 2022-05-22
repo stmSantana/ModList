@@ -3,6 +3,34 @@
 	"authorURL":"https://github.com/stmSantana?tab=repositories", 
 	"mods":[
 		{
+			"name":"SmallFixToScenes", 
+			"displayName": "Small Fix To Scenes",
+			"aliases":[], 
+			"author":"", 
+			"authorURL":"", 
+			"version":"1.0", 
+			"updated":"2022-05-22", 
+			"description":"This mod allows modifying some items in the mountaineer's hut (Timberwolf mountain).", 
+			"thumb": "",
+			"modURL":"https://github.com/stmSantana/SmallFixToScenes", 
+			"downloadURL":"https://github.com/stmSantana/SmallFixToScenes/releases/latest/download/SmallFixToScenes.dll", 
+			"testedon":{
+				"tldversion":"2.00",
+				"mlversion":"0.5.4"
+			},
+			"dependencies":[
+			], 
+			"updater":{
+				"enable":true, 
+				"downloads":[] 
+			},
+			"status":{
+				"working":true,
+				"issues":"",
+				"notes":""
+			}
+		},
+		{
 			"name":"FoodsBySantana", 
 			"displayName": "Foods by Santana",
 			"aliases":[], 
